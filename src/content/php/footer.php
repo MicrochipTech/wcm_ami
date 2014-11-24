@@ -29,7 +29,7 @@ Stephen Porter        2014-10-14    Initial Release
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2 text-center">
-            <small>Copyright © 2014 Microchip Technology, Inc. WCM Development Kit 1 Server Demo - Version 2.00</small>
+            <small>Copyright © 2014 Microchip Technology, Inc. WCM Development Kit 1 Server Demo - Version 2.0.1</small>
         </div>
     </div>
 </div>
